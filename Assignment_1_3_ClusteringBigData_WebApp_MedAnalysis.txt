@@ -1,4 +1,6 @@
-# Assignment 1 - Clustering of Big Data 
+# Assignment 1 - Clustering of Big Data. 
+Task 3.  
+
 <description>
 
 The goal of this project is to develop a comprehensive, modular, and cross-platform graphical WEB APP or Desktop or mobile application for medical image analysis. 

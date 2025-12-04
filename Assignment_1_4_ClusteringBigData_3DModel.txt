@@ -1,0 +1,7 @@
+Assignment 1 - Clustering of Big Data. Task 4. 
+
+WEB SITE (WebApp) or GUI (Desktop app): use medical images provided (and it has to be possible to choose other images as well as additional examples) and apply clustering and segmentation and automatically create a 3D model from the data set of the  images after applying kmeans/DBSCAN/WARD/BIRCH clustering. 
+
+Be able to visualize the clustered results in 3D and apply this also for the differential images of the data set. 
+
+Discuss your results in a website in a proper way (20 points out of 100).
