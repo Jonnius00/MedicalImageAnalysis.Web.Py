@@ -72,4 +72,4 @@ TestResults/
 *.pdb
 *.sqlite
 *.sqlite3
-static/images/
+# static/images/
