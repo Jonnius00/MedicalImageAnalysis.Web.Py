@@ -31,6 +31,11 @@ yarn-error.*
 
 # local env files
 .env*.local
+# Virtual environments
+venv/
+env/
+ENV/
+MedIMgAnalyze.Web/
 
 # typescript
 *.tsbuildinfo
@@ -73,3 +78,10 @@ TestResults/
 *.sqlite
 *.sqlite3
 # static/images/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
